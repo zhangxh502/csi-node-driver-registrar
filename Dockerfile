@@ -1,1 +1,1 @@
-From quay.io/k8scsi/csi-node-driver-registrar:v1.3.0
+From k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.0.1
